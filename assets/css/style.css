@@ -1055,19 +1055,7 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-#footer {
-  padding: 0px;
-  color: #f4f6fd;
-  font-size: 14px;
-  margin-left:800px;
 
-  left: 0;
-  bottom: 0;
-  width: 715px;
-  
-  z-index: 9999;
-  background: #040B14;
-}
 
 
 
